@@ -34,7 +34,7 @@ A convolutional neural network (CNN) that classifies images as either cats or do
 * Dataset: Cats and Dogs dataset from FreeCodeCamp
 
 ## 3. SMS Spam Detection
-(`fcc_sms_text_classification.ipynb`)
+(`fcc_sms_text_classification.py`)
 A neural network model that classifies text messages as either spam or ham (non-spam).
 **Technical Details:**
 * Architecture: Sequential model with:
