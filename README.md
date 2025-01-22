@@ -2,7 +2,7 @@
 This repository contains implementations of various machine learning models using TensorFlow/Keras. The projects demonstrate both regression and classification tasks.
 
 ## Projects
-1. Health Insurance Cost Prediction
+## 1. Health Insurance Cost Prediction
 (`LinearR.ipynb`)
 A neural network model that predicts health insurance costs based on various factors including:
 * Age
@@ -18,7 +18,7 @@ A neural network model that predicts health insurance costs based on various fac
 * Metrics: Mean Absolute Error (MAE)
 * Dataset: Insurance cost dataset from FreeCodeCamp
 
-2. Cat vs Dog Image Classification
+## 2. Cat vs Dog Image Classification
 (`DogOrCat.ipynb`)
 A convolutional neural network (CNN) that classifies images as either cats or dogs.
 **Technical Details:**
@@ -33,7 +33,7 @@ A convolutional neural network (CNN) that classifies images as either cats or do
 * Batch size: 128
 * Dataset: Cats and Dogs dataset from FreeCodeCamp
 
-3. SMS Spam Detection
+## 3. SMS Spam Detection
 (`fcc_sms_text_classification.ipynb`)
 A neural network model that classifies text messages as either spam or ham (non-spam).
 **Technical Details:**
