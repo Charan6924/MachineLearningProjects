@@ -48,7 +48,7 @@ A neural network model that classifies text messages as either spam or ham (non-
 * Vocabulary size: 10000
 * Dataset: SMS Spam Collection dataset from FreeCodeCamp
 
-Setup and Dependencies
+## Setup and Dependencies
 Required libraries:
 * TensorFlow 2.x
 * Keras
