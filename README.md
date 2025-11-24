@@ -1,4 +1,3 @@
 # Machine Learning Projects
 
-## California Housing Price Predictor
-Linear Regresssion model that predicts california housing prices using demographic and geographic features.
+A set of jupyter notebooks that highlight my ML learning journey
